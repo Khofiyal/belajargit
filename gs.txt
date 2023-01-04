@@ -1,0 +1,22 @@
+warna bg : #0e1029
+warna list : #e1b642 / goldenrod
+font : Barlow Condensed Bold
+
+rek
+5005276087 BCA a/n Khofiyal Fatah Darojat
+
+Pricelist dm ML
+86 Dm Rp. 20.000
+
+
+Pricelist VP
+125 VP Rp. 15.000
+420 VP Rp. 50.000
+700 VP Rp. 80.000
+1120 VP Rp. 128.000
+1375 VP Rp. 148.000
+1795 VP Rp. 196.000
+2400 VP Rp. 245.000
+3100 VP Rp. 325.000
+4000 VP Rp. 390.000
+5375 VP Rp. 535.000
